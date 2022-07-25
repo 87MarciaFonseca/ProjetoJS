@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(177, 233, 233);
+}
+
+.titulo{
+    color: rgb(162, 97, 223);
+    font-size: 30px;
+}
+.subtitulo{
+    
+    color: rgb(198, 165, 230);
+    font-size: 20px;
+}
+
+.container-register{
+    display: flex;
+    row-gap: 10px;
+    flex-direction: column;
+    align-items: center;
+}
