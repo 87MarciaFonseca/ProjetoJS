@@ -1,7 +1,1 @@
-LINKS UTEIS:
-
-GIT COMANDOS BASICOS
-https://rogerdudler.github.io/git-guide/index.pt_BR.html
-
-TUTORIAL JS/HTML/CSS
-https://www.w3schools.com/
+🚀 Aplicar meu aprendizado de JavaScript na criação da minha primeira página web foi incrível! Com os conceitos que aprendi, dei vida à minha ideia e transformei código em algo visual. Mesmo com um layout simples, cada passo, desde a estruturação até adicionar funcionalidades interativas, foi uma conquista na construção do meu próprio cantinho na web. Essa jornada não só consolidou meu conhecimento prático, mas também aumentou ainda mais meu amor pelo desenvolvimento web. 💻✨ #JavaScriptWebDev #PrimeiraPáginaWeb #LayoutSimples
